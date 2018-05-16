@@ -1,0 +1,26 @@
+{
+  "name": "@spaceflight/common",
+  "version": "0.0.1",
+  "description": "Common tools for flash FC, read and write settings for betaflight, baseflight, cleanflight, inav flight controllers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rc-space/spaceflight-cli.git"
+  },
+  "keywords": [
+    "Spaceflight",
+    "butterflight",
+    "inav",
+    "cleanflight",
+    "betaflight"
+  ],
+  "author": "www.rc-space.com",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/rc-space/spaceflight-cli/issues"
+  },
+  "homepage": "https://github.com/rc-space/spaceflight-cli#readme"
+}
